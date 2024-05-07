@@ -45,12 +45,13 @@ mse
 r2=metrics.r2_score(y_test,y_pred)
 r2
 dt.predict([[5,6]])
-
 */
 ```
 
 ## Output:
-![Decision Tree Regressor Model for Predicting the Salary of the Employee](sam.png)
+Data Head:
+![image](https://github.com/Ajay-Joshua-M/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/160995404/e11d3519-d5ea-4f07-8229-600e8d644846)
+
 
 
 ## Result:
