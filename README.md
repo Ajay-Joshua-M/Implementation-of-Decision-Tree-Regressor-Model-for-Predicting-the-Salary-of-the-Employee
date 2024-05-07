@@ -48,9 +48,25 @@ dt.predict([[5,6]])
 */
 ```
 
+
 ## Output:
 ### Data Head:
 ![image](https://github.com/Ajay-Joshua-M/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/160995404/e11d3519-d5ea-4f07-8229-600e8d644846)
+
+### Data Info:
+![info](https://user-images.githubusercontent.com/93427923/169694238-85077655-4a64-4334-b451-997c7ea1937d.png)
+
+### Data Head after applying LabelEncoder():
+![head2](https://user-images.githubusercontent.com/93427923/169694242-dd7cae7b-50db-4864-96aa-ca8eb07514e3.png)
+
+### MSE:
+![mse](https://user-images.githubusercontent.com/93427923/169694248-eefed989-8fc7-4e80-b3af-992667d1936a.png)
+
+### r2:
+![r2](https://user-images.githubusercontent.com/93427923/169694252-b17fc5dd-22fd-46e0-b8de-991fd12528ed.png)
+
+### Data Prediction:
+![predict](https://user-images.githubusercontent.com/93427923/169694255-16669af0-0ed0-416e-b387-d63f2f3e9dc3.png)
 
 
 
